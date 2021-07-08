@@ -1,0 +1,12 @@
+C:\Users\mistr\source\repos\PRG LAB 5\bin\Debug\PopulationDB.mdf
+C:\Users\mistr\source\repos\PRG LAB 5\bin\Debug\PopulationDB_log.ldf
+C:\Users\mistr\source\repos\PRG LAB 5\bin\Debug\PRG LAB 5.exe.config
+C:\Users\mistr\source\repos\PRG LAB 5\bin\Debug\PRG LAB 5.exe
+C:\Users\mistr\source\repos\PRG LAB 5\bin\Debug\PRG LAB 5.pdb
+C:\Users\mistr\source\repos\PRG LAB 5\obj\Debug\PRG LAB 5.csprojAssemblyReference.cache
+C:\Users\mistr\source\repos\PRG LAB 5\obj\Debug\PRG_LAB_5.mainForm.resources
+C:\Users\mistr\source\repos\PRG LAB 5\obj\Debug\PRG_LAB_5.Properties.Resources.resources
+C:\Users\mistr\source\repos\PRG LAB 5\obj\Debug\PRG LAB 5.csproj.GenerateResource.cache
+C:\Users\mistr\source\repos\PRG LAB 5\obj\Debug\PRG LAB 5.csproj.CoreCompileInputs.cache
+C:\Users\mistr\source\repos\PRG LAB 5\obj\Debug\PRG LAB 5.exe
+C:\Users\mistr\source\repos\PRG LAB 5\obj\Debug\PRG LAB 5.pdb
